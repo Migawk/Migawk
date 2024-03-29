@@ -33,7 +33,7 @@ More about me: https://migawka.space
 
 ## 🏗️ Currently developing
 
-- [Mowopedia](http://mowopedia.migawka.space/)
+- 🔥 [Mowopedia](http://mowopedia.migawka.space/)
 - [Layouts](https://github.com/Migawk/Layouts)
 
 ## 💬 Let’s talk!
@@ -46,4 +46,4 @@ I like to talk and I’m open to collaborations, discussions, and opportunities.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&layout=pie)](https://migawka.space)
 
 [![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![lineage](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+![lineage](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
