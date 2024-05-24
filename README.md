@@ -14,7 +14,7 @@ More about me: https://migawka.space
 - **Testing & Automation:** Jest, Storybook
 - **Other:** RESTful APIs, GraphQL, WebSocket, JSON Web Tokens (JWT)
 
-## Soft skills
+## 💬 Soft skills
 
 - I know 4 languages
     - Ukrainian
@@ -43,7 +43,7 @@ I like to talk and I’m open to collaborations, discussions, and opportunities.
 ## Stat
 [![My stat](https://github-readme-stats.vercel.app/api?username=migawk&show_icons=true&theme=radical)](https://migawka.space)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&layout=pie)](https://migawka.space)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&layout=pie&hide=css,html,sass,dockerfile,hack)
 
 [![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 ![lineage](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
