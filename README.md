@@ -1,21 +1,15 @@
 # 👋Hello, I'm Migawka
 
-I’m a software developer with huge experience within **frontend** and **backend** developing. I like to keep high technologies and make my projects more youthful. Currently I’m in Sweden and I’m 18.
+I’m a developer with huge experience within **frontend** and **backend** developing. I like to keep high technologies and make my projects more youthful. Currently I’m in Sweden and I’m 19.
 
-More about me: [https://migawka.space](https://migawka.space)
+More about me: [migawka.site](https://migawka.site)
 
 ## 🔧 Hard Skills & Abilities
 
-- **Frontend:** JavaScript, TypeScript, React.js, Vue, PHP, SASS
-- **Backend:** Node.js, Nest.js
-- **Database Technologies:** TypeORM, Prisma, raw SQL queries
+- **Frontend:** React.js, Vue, PHP
+- **Backend:** Nest.js, Rust
 - **DevOps & Deployment:** Docker, Linux, nginx, phpmyadmin, pgAdmin
 - **CMS:** WordPress, Elementor
-- **Version Control:** Git, GitHub
-- **Testing & Documentation:** Jest, Storybook
-- **Other:** RESTful APIs, Apollo( GraphQL ), socket.io, JSON Web Tokens (JWT)
-
-*"Rust anywhere flying here"*
 
 ## 💬 Soft skills
 
@@ -31,12 +25,12 @@ More about me: [https://migawka.space](https://migawka.space)
 ## 📫 Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/yevhen-klimov-625a4226a/)
-- [YouTube](https://www.youtube.com/channel/UCrstUza8m8P9BsjJFTqRlxA)
 - [Telegram](https://t.me/Migawk)
 
 ## 🏗️ Currently developing
 
 - [MigStick](https://t.me/migstick_bot)
+- [silverpulsar](https://t.me/silverpulsar_bot)
 
 ## 💬 Let’s talk!
 
