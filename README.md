@@ -29,8 +29,7 @@ More about me: [migawka.site](https://migawka.site)
 
 ## 🏗️ Currently developing
 
-- [MigStick](https://t.me/migstick_bot)
-- [silverpulsar](https://t.me/silverpulsar_bot)
+Magic Mirror
 
 ## 💬 Let’s talk!
 
@@ -38,5 +37,4 @@ I like to talk and I’m open to collaborations, discussions and opportunities. 
 
 ## Stat
 [![My stat](https://github-readme-stats.vercel.app/api?username=migawk&show_icons=true&theme=radical)](https://migawka.space)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&layout=pie&hide=css,html,sass,dockerfile,hack,twig)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&layout=pie&hide=css,html,sass,dockerfile,hack,twig](https://github-readme-stats.vercel.app/api/top-langs/?username=migawk&theme=synthwave&show_icons=true&hide_border=true&layout=compact&hide=css,sass,twig,javascript,vue,shell,html,hack,dockerfile))
